@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ANDRES CELI/Downloads/proyecto_vision/app/.cxx/Debug/5447202o/arm64-v8a",
+  "command": "C:\\Users\\ANDRES~1\\AppData\\Local\\Android\\Sdk\\ndk\\231~1.777\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=aarch64-none-linux-android21 --gcc-toolchain=\"C:/Users/ANDRES CELI/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"C:/Users/ANDRES CELI/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dopencvhelade_EXPORTS -isystem C:/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\opencvhelade.dir\\native-lib.cpp.o -c \"C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\src\\main\\cpp\\native-lib.cpp\"",
+  "file": "C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

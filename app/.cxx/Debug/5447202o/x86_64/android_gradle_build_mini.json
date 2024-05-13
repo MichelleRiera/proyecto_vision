@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ANDRES CELI\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\.cxx\\Debug\\5447202o\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ANDRES CELI\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\.cxx\\Debug\\5447202o\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencvhelade::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencvhelade",
+      "abi": "x86_64",
+      "output": "C:\\Users\\ANDRES CELI\\Downloads\\proyecto_vision\\app\\build\\intermediates\\cxx\\Debug\\5447202o\\obj\\x86_64\\libopencvhelade.so",
+      "runtimeFiles": []
+    }
+  }
+}

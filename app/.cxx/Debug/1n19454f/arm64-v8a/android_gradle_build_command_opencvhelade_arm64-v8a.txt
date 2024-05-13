@@ -1,0 +1,7 @@
+Executable : C:\Users\ANDRES CELI\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ANDRES CELI\Downloads\opencv4.2-android-studio-simple-app-main\app\.cxx\Debug\1n19454f\arm64-v8a
+opencvhelade
+jvmArgs : 
+

@@ -1,0 +1,8 @@
+# ninja log v5
+1	1255	737103995	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	218a4251b32eec43
+1256	1693	737103996	C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/build/intermediates/cxx/Debug/1n19454f/obj/arm64-v8a/libopencvhelade.so	76ceb007dcbf9d58
+4	716	737105305	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	218a4251b32eec43
+716	1423	737105306	C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/build/intermediates/cxx/Debug/1n19454f/obj/arm64-v8a/libopencvhelade.so	76ceb007dcbf9d58
+0	8	0	clean	588f0fcea36bf6c2
+3	1429	737105652	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	218a4251b32eec43
+1430	2327	737105653	C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/build/intermediates/cxx/Debug/1n19454f/obj/arm64-v8a/libopencvhelade.so	76ceb007dcbf9d58

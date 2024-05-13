@@ -1,0 +1,3 @@
+C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/.cxx/RelWithDebInfo/37274215/x86/CMakeFiles/opencvhelade.dir
+C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/.cxx/RelWithDebInfo/37274215/x86/CMakeFiles/edit_cache.dir
+C:/Users/ANDRES CELI/Downloads/opencv4.2-android-studio-simple-app-main/app/.cxx/RelWithDebInfo/37274215/x86/CMakeFiles/rebuild_cache.dir

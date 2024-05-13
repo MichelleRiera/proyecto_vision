@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\ANDRES CELI\Downloads\opencv4.2-android-studio-simple-app-main\app\.cxx\Debug\1n19454f\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/opencvhelade.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library "C:\Users\ANDRES CELI\Downloads\opencv4.2-android-studio-simple-app-main\app\build\intermediates\cxx\Debug\1n19454f\obj\arm64-v8a\libopencvhelade.so"

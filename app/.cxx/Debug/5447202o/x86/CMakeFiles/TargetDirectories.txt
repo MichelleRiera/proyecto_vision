@@ -1,0 +1,3 @@
+C:/Users/ANDRES CELI/Downloads/proyecto_vision/app/.cxx/Debug/5447202o/x86/CMakeFiles/opencvhelade.dir
+C:/Users/ANDRES CELI/Downloads/proyecto_vision/app/.cxx/Debug/5447202o/x86/CMakeFiles/edit_cache.dir
+C:/Users/ANDRES CELI/Downloads/proyecto_vision/app/.cxx/Debug/5447202o/x86/CMakeFiles/rebuild_cache.dir
